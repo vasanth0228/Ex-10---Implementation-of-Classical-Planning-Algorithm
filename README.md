@@ -1,13 +1,18 @@
-#ExpNo:10 Implementation of Classical Planning Algorithm 
+# Exp No: 10 Implementation of Classical Planning Algorithm 
 
-NAME:  
-REG NO:
-## Algorithm or Steps Involved:
-Define the initial state
-Define the goal state
-Define the actions
-Find a plan to reach the goal state
-Print the plan
+**NAME:  vasanth kumar v**
+
+**REG NO: 2305002027**
+# Algorithm or Steps Involved:
+Step 1: Define the initial state
+
+Step 2: Define the goal state
+
+Step 3: Define the actions
+
+Step 4: Find a plan to reach the goal state
+
+Step 5: Print the plan
 
 ### Example - 1
 ```
@@ -94,8 +99,10 @@ print(plan)
 ```
 
 ### OUTPUT
+
 441153532-c6fe5f1d-478a-4654-8936-3246d274c8b0
 
-RESULT
-Thus the program to implement Classical Planning Algorithm has been executed successfully.
+### RESULT
+
+Thus, The program to implement Classical Planning Algorithm has been executed successfully.
 
