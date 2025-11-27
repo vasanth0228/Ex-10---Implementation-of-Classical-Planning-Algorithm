@@ -1,6 +1,6 @@
 # Exp No: 10 Implementation of Classical Planning Algorithm 
 
-**NAME:  vasanth kumar v**
+**NAME:  Vasanth kumar V**
 
 **REG NO: 2305002027**
 # Algorithm or Steps Involved:
